@@ -2,9 +2,6 @@
 title: "Why are fewer Filipinos talking about Chat GPT and Artificial Intelligence?"
 date: 2023-06-06
 ---
-
-# Why are fewer Filipinos talking about Chat GPT and Artificial Intelligence?
-
 Last week, I had an encounter with a classmate who was using Chat GPT, an advanced language model powered by artificial intelligence. I caught him using it on his phone, and I got so excited because it felt like we were sharing one of the world's best-kept secrets. I could tell he understood the potential of this technology.
 
 Let me give you some background. I'm a freshman at a small community college in our town, and I've been using Chat GPT mostly for fun. Whether I need help with research, writing essays or emails, or even coding assistance, Chat GPT has been a huge help. I discovered it through a TikTok video in December, and since then, I've been using it to my advantage. As someone studying coding and aspiring to be a software engineer, it has been an invaluable tool.
