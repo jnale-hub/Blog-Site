@@ -1,8 +1,6 @@
 ---
-title: 
+title: Welcome to John Mark's Coding Corner!
 ---
-
-# Welcome to John Mark's Coding Corner!
 
 ## About Me
 I'm John Mark, a passionate software engineer with a deep love for coding and technology. Throughout my journey, I've gained valuable knowledge and experiences that I'm excited to share with you. Join me as I explore the ever-evolving world of programming, discuss industry trends, and provide insights into the fascinating realm of software engineering.
