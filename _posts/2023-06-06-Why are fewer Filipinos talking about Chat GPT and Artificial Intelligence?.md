@@ -3,7 +3,7 @@ title: "Why are fewer Filipinos talking about Chat GPT and Artificial Intelligen
 date: 2023-06-06
 ---
 
-<img src="https://www.rappler.com/tachyon/2023/02/chatgpt-reuters-6-scaled.jpg" alt="ChatGPT Image" width="70%">
+<img src="https://www.rappler.com/tachyon/2023/02/chatgpt-reuters-6-scaled.jpg" alt="ChatGPT Image" height="70%">
 
 Last week, I had an encounter with a classmate who was using ChatGPT, an advanced language model powered by artificial intelligence. I caught him using it on his phone, and I got so excited because it felt like we were sharing one of the world's best-kept secrets. I could tell he understood the potential of this technology.
 
