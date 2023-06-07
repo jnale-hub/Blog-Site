@@ -3,6 +3,8 @@ title: "Choose Your Friend Group Wisely: A Guide for College Students"
 date: 2023-06-07
 ---
 
+![College Picture](https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 College is an exciting time filled with new experiences and opportunities. One crucial aspect of this journey is the friendships we form along the way. The friends we choose can greatly influence our college experience, shaping our personal growth, academic performance, and overall well-being. In this blog post, we'll explore the significance of selecting the right friend group and provide practical advice to help college students make informed choices.
 
 **1. The Significance of Choosing the Right Friend Group**
