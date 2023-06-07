@@ -26,14 +26,12 @@ Unlike other countries, the Philippine government has not actively promoted or i
 
 4. Limited awareness among educators
 
-Many educators and instructors in the Philippines are unaware of Chat GPT and its capabilities. Even if students like myself utilize AI-generated essays or content, most teachers assume it was copied from the internet or other sources. This lack of knowledge and recognition from educators diminishes conversations about AI in educational institutions.
+Many educators and instructors in the Philippines are unaware of Chat GPT and its capabilities. Even if students like myself utilize AI-generated essays or content, most teachers assume it was copied from other articles or not even at all. This lack of knowledge and recognition from educators diminishes conversations about AI in educational institutions.
 
 5. Gatekeeping by those who know
 
 On a more personal level, some individuals, including myself, have a tendency to gatekeep Chat GPT because it feels like a power we hold over our classmates who are unaware of this technology. This reluctance to share information restricts the growth of AI discussions.
 
-But why do I want Filipinos to talk about artificial intelligence? Personally, I believe that it has
+But why do I want Filipinos to talk about artificial intelligence? Personally, I believe that it has tremendous potential for learners and can simplify various tasks. If our country embraces AI, progress and innovation will improve in various aspects, such as the economy, technology adoption, and career growth. The benefits are endless. However, I'm also aware of the potential risks and disadvantages, which is why I want people to discuss it more. The world is rapidly changing, and as a country, we need to be aware of it.
 
- tremendous potential for learners and can simplify various tasks. If our country embraces AI, progress and innovation will improve in various aspects, such as the economy, personal development, and career growth. The benefits are endless.
-
-By addressing the barriers mentioned above and fostering conversations about Chat GPT and artificial intelligence, we can unlock new opportunities for Filipinos and contribute to the advancement of our nation.
+By addressing the barriers mentioned above and fostering conversations about Chat GPT and artificial intelligence, we can unlock new opportunities for Filipinos, prepare our people for the future, , and contribute to the advancement of our nation.
